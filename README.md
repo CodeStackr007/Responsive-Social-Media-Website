@@ -1,1 +1,2 @@
-SocialBook: A Light-Themed Responsive Social Media Website Using HTML CSS &amp; JavaScript.
+# SocialBook
+A Responsive Light-Themed Social Media Website Using HTML CSS &amp; JavaScript
