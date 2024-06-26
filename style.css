@@ -549,7 +549,7 @@ main .container .right {
 MEDIA QUERIES FOR SMALL LAPTOP AND BIG TABLETS 
 ==================== */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1200px) {
     .container {
         width: 96%;
     }
